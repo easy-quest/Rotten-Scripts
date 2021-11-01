@@ -9,7 +9,7 @@
   "author": "Mohit Bhat",
   "license": "ISC",
   "dependencies": {
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "https": "^1.0.0",
     "package.json": "^2.0.1",
     "parse-link-header": "^1.0.1",
