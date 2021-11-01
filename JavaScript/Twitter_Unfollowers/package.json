@@ -12,7 +12,7 @@
   "author": "madhav jha",
   "license": "ISC",
   "dependencies": {
-    "needle": "^2.6.0",
+    "needle": "^2.9.1",
     "prompt-sync": "^4.2.0"
   }
 }
