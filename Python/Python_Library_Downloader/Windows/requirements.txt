@@ -46,7 +46,7 @@ tensorflow-estimator==1.15.1
 
 ##### Image manipulation
 imageio==2.6.1
-Pillow==6.2.1
+Pillow==9.0.1
 scikit-image==0.16.2
 graphviz
 pydot==1.4.1
@@ -83,3 +83,5 @@ tensorflow-probability==0.7
 tensorflow-transform==0.15.0
 tfx==0.15.0
 tf-agents==0.3.0rc0
+pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
